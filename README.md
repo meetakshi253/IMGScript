@@ -4,7 +4,7 @@ Download the zipfile containing images from [here](https://drive.google.com/driv
 
 Tasks:
 <ul>
-<li> Ask user for a keyword.
+<li> Ask the user for a keyword.
 <li> Perform OCR on the given set of images and look for the word in all image files.
 <li> Identify image files having the keyword.
 <li> Identify faces in those image files.
