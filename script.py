@@ -1,4 +1,5 @@
 #the code is written for Coursera's Python 3 Programming Specialisation's last Python Project: pillow, pytesseract and opencv
+#actually coded for Jupyter Notebook IPython 
 
 from zipfile import ZipFile
 
